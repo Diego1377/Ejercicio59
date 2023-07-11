@@ -51,8 +51,7 @@
                 Console.WriteLine($"La persona con menor edad ingresada es de {EdadMenor} años");
                 Console.WriteLine($"El promedio de edad entre las {CantidadPersonas} personas es de {PromedioEdad} años");
                 Console.WriteLine($"La cantidad de personas entre 25 y 40 es de  {Personas2540} personas");
-
-
+                Console.WriteLine($"La persona con mayor edad ingresada es de {EdadMayor} años");
 
             }
 
